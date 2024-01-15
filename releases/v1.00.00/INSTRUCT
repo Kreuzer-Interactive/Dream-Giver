@@ -1,0 +1,74 @@
+            Intructions for the Kreuzer Drawing Program
+                
+                Movement keys-On numeric keypad
+        Up
+Dgn. 7  8  9 Dgn.            0(ins)-Move three pixels at a time   
+                                    (Hit again to move one at a time)
+left-4     6 -right          +     -Move six pixels at a time 
+     
+Dgn. 1  2  3 Dgn.
+        -
+      Down
+                     Basic Drawing
+
+  5: Put pen down (Your cursor will now trail in the current color)
+    (Hit again to take pen up)
+  i: Change current color to whatever color the cursor is on
+  =: Change color one to the right
+  -: Change color one to the left.
+  o: Change color to the number color you type in.
+
+                     Basic Features
+
+  *: Will fill a shape surounded by the current color with the current color
+     (Pen must be down)
+  /: Turn on erase mode
+     (Pen must be up to erase)
+  z: Mark coordinate #1
+  x: Mark coordinate #2
+  l: Draw a line in the current color between point z and point x.
+     (Pen must be down)
+  g: Get the image square with coordinate #1 as the upper left corner
+     and coordinate #2 as the lower right corner
+  d: Drop the last image taken image. (The cursor will mark the upper
+  left-hand corner)
+
+                     File management
+  s: Saves the picture in the square. Type in a file name WithOut an
+  exstension. If the picture already has a name hit enter to save with
+  the same name.
+
+  r: Restores a picture. (Your current picture on screen if not saved will
+  be lost.) Choose a picture from the list.
+
+  n: Start a new picture. (If not saved your current picture will be lost.)
+
+  q: Quits back to qbasic
+
+  k: Will kill the saved file for your current picture.
+
+                     Advanced Features
+.(del): Will put you in small erase mode. (In other words you will draw in
+        black.) Hit again to go back to normal draw mode.
+
+  <: Undo the last fill (Normal or pattern)   
+
+  t: Mark the first color in the color bar for pattern fill.
+  y: Mark the second color in the color bar for pattern fill.
+     (Colors inbetween will be included in the pattern.)
+  \: Fills in the area surounded with the currnet color with a pattern.
+
+  t: Mark the color to change
+  y: Mark to color to change into.
+  f: Turn on color change (All t colors near your cursor will become y
+     colors.) Hit f again to turn it off.
+
+  e: Enlarge the sqare (First you must mark it the upper left corner with z
+     and the lower-right with x). Enter how much to enlarge it (A number
+     between .1 and 10) 1 is the current size. (.5 will make it have size, 2
+     will make it twice as big). This feature can be slow.
+
+
+  I'm sure there are a few more features, but I can't remember them right now
+so you'll have to do without them.
+

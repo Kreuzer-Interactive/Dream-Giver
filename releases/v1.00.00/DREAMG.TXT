@@ -1,0 +1,229 @@
+                             The Dream Giver
+                                   by
+                               Jon Kreuzer
+-------------------------------Beginning---------------------------
+
+Goal-
+        The goal of Dream Giver is to use your mind to find objects and solve 
+puzzles to continue in the game. There is also the long-term
+plot oriented goal to find out more about the plague, how to stop it, and
+how to escape the run-down city.
+
+How to run the game-
+        Type dream in your Dream Giver directory. It will load the
+Kreuzer Industries Logo, then the intro, then the game. Hit esc to skip
+from the logo to the game, and hitting s will skip the intro and take
+you straight to the game.
+
+Requirements- 
+        A IBM compatible computer, with a 256-color VGA graphics card. You 
+need at least 1.9 Megabytes of hard disk space to hold the entire game.
+For the best results possible run on a 386 25mhz or faster. Slower
+computers will still run the game well, but your may experience very slight
+sluggishness in some areas of the gameplay.
+
+        To install the game insert your Dream Giver disk in the a: drive
+and type install. It will install the full game to drive c: in the directory
+Dreamg.
+
+-------------------------------Interface--------------------------
+
+Movement- You can move the cursor (The little arrow) either with a joystick
+or the cursor keys on the keyboard.
+
+            Cursor keys                    Joystick
+  up/left-7     8-up   9-up/right    (Same as cursor keys. What ever
+     left-4            6-right        direction the stick is pushed, the
+down/left-1     2-down 3-down/right   cursor will move.)
+
+   5(middle) key- Hitting this key will toggle quick cursor on and off.
+With quick cursor on, the cursor will move three times as fast. This is useful
+for zipping to the icons and back, or zipping to the compass.
+   The (B) button will toggle quick cursor on and off if you are using a
+   joystick.
+                      
+Selecting-
+        The selection key- Keyboard <Enter> Joystick <A> button
+ When you move your cursor into a screen area, Hit the selection key to
+ activate that area. In these instructions hitting the selection key will
+ sometimes be referred to as clicking.
+        
+Extra keys-
+        1. <s> Hitting the s key will toggle the sound effects on and off.
+            It's probably easier to leave the sound on, so unless you want
+            to be silent, you should not have to worry about this feature.
+
+        2. <space bar> The space bar will cycle through the icons from top
+            to bottom.
+
+        3. <j> This key will toggle the joystick on and off. If you do not
+           have a joystick, or want to use the keyboard, it may improve
+           performance to leave the joystick off.
+
+        4. <m> This key will turn the mouse on and off. Due to the fact
+           that this game does not support a mouse, you will have to HOLD
+           DOWN BOTH BUTTONS to move it, stop holding down a button to 
+           click.
+
+----------------------------Areas and Functions------------------------
+            The areas are-
+                      
+        €ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ€ﬂ€ﬂﬂﬂﬂﬂﬂﬂ€ 
+        €     1      €2€  3    €  1-View screen 
+        €            € €       €  2-Icons
+        €‹‹‹‹‹‹‹‹‹‹‹‹€‹€‹‹‹‹‹‹‹€  3-Active text    
+        €      4     €         €  4-Inventory boxes
+        €ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ€    5    €  5-Compass
+        €      6     €         €  6-General description
+        ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ
+
+View screen-
+        In this box the picture of your current location is displayed. This
+is where all the action will take place. It is where you interact with your
+environment.
+        Clicking on this area will display a message. The message displayed
+will depend on which icon you have selected, and exactly what object in the
+picture your arrow is on.
+
+General Description- 
+        In this area a general description of the scene shown
+in the view screen is displayed. It will change whenever you move to a new
+scene. Clicking on it will do nothing.
+
+Active Text- 
+        Whenever you tap the selection key, if the arrow is on an area that
+action is possible, this box will display the results. Clicking on this
+box will do nothing.
+        ex. You click the eye icon on a lamp in the view screen. `A gold lamp 
+hangs from the back wall of the room.' is displayed in the active text box.
+
+Icons-
+        1. The EYE icon. If whatever the cursor is on is important, this
+           icon will give a description of it.
+        2. The GET icon. If the item the cursor is on will help you in your
+           quest, this icon will obtain it for you.
+        3. The OPEN icon. This icon will open closed doors, cases, or
+           anything else that can open or close.
+        4. The PUSH icon. This icon is a general action icon. It will push/
+           pull/reach/operate, etc.
+        5. The USE icon. It will, if possible, use the item selected at the
+           arrow's location on the screen.
+Clicking on an icon will change it to the active (current) icon.
+
+Note: The icon you have currently selected will be displayed in the bottom
+left inventory box.
+
+Inventory Boxes-
+        Whenever you get an item and decide to keep it, a picture of
+that item will appear in an empty inventory box. There are eleven boxes 
+displayed at a time, plus one which contains the Saving Stick. If you click
+on the red bar at the left of the boxes , four more boxes will swap with the 
+four currently displayed at the top left.
+        Note: If you try to obtain an object, and you have all eleven active
+ inventory boxes filled up, a message will be displayed in the active text
+ telling you that you can't carry any more.
+
+Clicking on a specific inventory box will make the item inside the box become
+ the selected item. You can always tell the current selected item because it  
+ will be in the box highlighted in red. If you have the look icon selected
+ a description of the object clicked on will be displayed.
+        Note: Unless the eye icon is the current icon, the icon will switch
+        to use.
+
+Compass-
+        When you're playing Dream Giver, you will find it vital to be able
+ to move your character from one screen to another. The only way you can do
+ this is to use the compass. The compass contains the standard eight 
+ directions, NW, N, NE, W, E, SW, S, SE. The view picture is always facing
+ north. The directions that are currently available to go are highlighted,
+ i.e. lighter than the other ones. If you click on any of these directions 
+ your character will walk that way on the compass. A new view screen will 
+ appear in place of the old one.
+        Note: Some things that you do, finding a secret passage, unlocking a 
+        door, or finding an unlocked or open door, will highlight a new
+        direction of travel.
+
+-----------------------------Saving stick-------------------------------
+What can the saving stick do?-
+        1. View percentage of the game complete.
+        2. Save your game.
+        3. Load a previously saved game
+        4. Restart a new game
+        5. Quit to dos
+        6. Return to game.
+
+Using the saving stick-
+        Select the inventory box with the stick icon inside. (It will be on
+        the top row, far right.) If the icon is not already on USE, select
+        the USE icon. Move over to your character on the compass hit
+        <enter>. This will bring up the Saving stick menu.
+
+Percentage complete-
+        At the top of the menu will be a percentage. This is what percentage
+of the game you have completed. The higher the further you are to the end of
+the game. Note: It is not necessary to do everything possible for points, but
+some things you have to do to finish the game. There are also two items you
+must possess at the end of the game in order to view the full ending sequence.
+
+Saving-
+Hit <s>. It will then ask you which number you want to save your game under.
+Hit either 1, 2, 3, or 4. If there is already a game saved under the number
+the new game will be saved over the old and the old game will be lost.
+Note- Although Dream Giver is specially designed making it hard to
+maneuver yourself into a dead end, it is not impossible, so multiple saved
+games are suggested.
+
+        During the course of the game you will find two reasons to save the
+game.
+        1- The Dream Giver is a long game. It is extremely unlikely that you
+will beat it in one sitting. You can save your game, then continue where you
+left off later.
+        2- You are in a new and potentially hostile environment. It
+is possible to be killed, therefore it is wise to save the game in new or
+dangerous situations. That way you will not have to do everything over again.
+
+Loading-
+Hit <l>. You will then be asked what number game to load. If you that
+number has a game saved in it, you will be back in the exact position with
+the exact same items as when the game was saved.
+      
+Restarting-
+Hit <r>. The game will then restart from the first scene (the subway station)
+with no items, and nothing done. In short, it is the same as loading a saved
+game saved at the very start of the game.
+
+Quitting-
+Hit <q>. When you are done playing the game for now, hitting q will return
+you to DOS. It will not save your game however, so if you want to start
+where you left of you should save it before quitting.
+
+Return to game-
+Tap <x>. This will exit the saving stick, and go back to the normal point and
+click interface.
+
+--------------------------Extra facts or hints------------------------------
+
+When you want to open, use an item on, or anything in general with a door, it
+will often be best to click on the knob. 
+        Try clicking on the inventory switch to see if you have some items 
+hiding that you forgot about.
+
+Be observant. Read all the way through what it says when you look at an 
+object. If you are not sure quite how to do something, try a few different
+cursors, or click in a few different places on the object. You might want to
+note puzzles you have not solved, so if you later find an important item you 
+can go back to them.  Most items, when you have used up all their uses, will 
+disappear, so if you still have an object, chances are it has another use. 
+If you see or find anything that looks or sounds important, it might be wise 
+to make a record of it. That way you won't forget it later.
+
+WARNING: Do not read this unless you want specific hints
+Type HINT at the dos prompt in the dreamgiver directory
+You will be asked to enter your saved game. Enter the number of your most
+recent saved game and a hint telling you what to do next will be displayed.
+Sometimes after you do that one thing you'll be stuck again, but sometimes
+you can enter a whole new world of adventure.
+        NOTE: I realize it is very time consuming and frustrating to get a
+        hint, especially one that will help considerably. This is purposeful
+        so you do not just keep hitting hint, and win the whole game without
+        using god's gift to you, your puny brain.
