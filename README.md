@@ -14,7 +14,7 @@
  Jon Kreuzer  
  Rob Kreuzer
 
-### Sound by
+### Music and sound by
  Jon Kreuzer
 
 ### Produced by
